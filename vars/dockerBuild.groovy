@@ -6,7 +6,6 @@
 //      docker image tag ${hubUser}/${project} ${hubUser}/${project}:latest
 //     """
 //
-//
 // }
 
 def call(String aws_account_id, String region, String ecr_repoName){
